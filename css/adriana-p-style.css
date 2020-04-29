@@ -17,7 +17,7 @@
     padding: 1rem 1rem 1rem;
 }
 
-<<<<<<< HEAD
+
 #blinking {
     animation:blinkingText 1.2s infinite;
 }
@@ -28,15 +28,6 @@
     60%{    color: transparent; }
     99%{    color:transparent;  }
     100%{   color: #7fff00;    }
-=======
-.header .image {
-    background: url('../img/flower.JPG');
-    width:16rem;
-    height: 10.515rem;
-    background-size: cover;
-    display: inline-block center;
-    margin: 0 auto;
->>>>>>> advice
 }
 
 .advice h4 {
